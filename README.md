@@ -61,6 +61,3 @@ python sales_analysis.py
 - Create pie chart and line chart
 - Export results to a new CSV file
 
-
-
-Your Name
